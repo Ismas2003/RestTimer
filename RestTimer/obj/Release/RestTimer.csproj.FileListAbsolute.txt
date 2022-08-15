@@ -1,0 +1,17 @@
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\bin\Release\RestTimer.exe.config
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\bin\Release\RestTimer.exe.manifest
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\bin\Release\RestTimer.application
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\bin\Release\RestTimer.exe
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\bin\Release\RestTimer.pdb
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.MainForm.resources
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.NotificationForm.resources
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.Properties.Resources.resources
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.csproj.GenerateResource.cache
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.csproj.CoreCompileInputs.cache
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.TrustInfo.xml
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.exe.manifest
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.application
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.exe
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.pdb
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.csproj.AssemblyReference.cache
+E:\Software\Visual Studio\Projects\RestTimer\RestTimer\obj\Release\RestTimer.csproj.SuggestedBindingRedirects.cache
